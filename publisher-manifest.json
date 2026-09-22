@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fd4eafb19168b907141cfc50",
+  "owner": "hudegr",
+  "repo": "page-d7756ae7c71f73e05cb4290b",
+  "title": "GoFast",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d7756ae7c71f73e05cb4290b",
+      "a": "GoFast",
+      "b": "机场官网线路发布页",
+      "entity": "GoFast",
+      "brand": "GoFast",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4179486e938c708a21324d24614ec12ed9ef14a18a7a7cbd8619ff9329add12a",
+      "content": {
+        "primary_entity": "GoFast",
+        "keyword1": "GoFast",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "GoFast 适配 Windows、macOS、Android、iOS 与路由器环境，按设备类型选择对应客户端，并参照客户端文档填写订阅信息即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，按步骤导入订阅即可上手 GoFast。",
+          "AI_CLOSING_TITLE": "开始使用 GoFast",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档方案，月流量从 100GB 到 1000GB，设备同时在线数从 3 台到 20 台，适合个人日常流媒体访问与多设备家庭使用。旗舰版与团队版引入 IPLC 专线与高带宽节点，适合对线路稳定性有要求的场景，用户可按设备数量和月流量需求灵活选择。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。个人日常使用建议从基础版开始，需要 IPLC 专线或更多设备在线可选择旗舰版。",
+          "AI_FAQ_ANSWER_2": "可以选择按年付，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。年付适合长期使用的用户，相比按月支付能减少续费频率。",
+          "AI_FAQ_ANSWER_3": "GoFast 支持 Windows、macOS、Android、iOS 等常见系统，不同客户端对系统版本要求不同。建议先查阅对应客户端的文档说明，再导入订阅链接进行配置。",
+          "AI_FAQ_ANSWER_4": "订阅配置需要从对应客户端文档中获取导入步骤，将订阅地址粘贴到客户端的订阅管理界面后更新节点列表。如果设备数量超出当前套餐限制，需要升级到支持更多设备的套餐。",
+          "AI_FAQ_ANSWER_5": "基础版适合轻度上网和基础流媒体访问，旗舰版解锁全节点原生流媒体并包含 IPLC 专线游戏加速优化，适合对流媒体和游戏线路有要求的用户。团队版提供 VIP 高带宽节点与企业定制路由，适合多人协作或企业场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "GoFast 三档套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "GoFast 是否支持按年付费？",
+          "AI_FAQ_QUESTION_3": "GoFast 支持哪些设备系统？",
+          "AI_FAQ_QUESTION_4": "订阅配置时遇到设备数量限制怎么办？",
+          "AI_FAQ_QUESTION_5": "基础版和旗舰版适合什么样的使用场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和线路偏好出发，选择适合的 GoFast 套餐并完成订阅。",
+          "AI_FEATURES_TITLE": "GoFast 使用特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备，团队版每月 1000GB 支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "按年付时基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用可以降低续费频率。",
+          "AI_FEATURE_TEXT_3": "Windows、macOS、Android、iOS 各有对应客户端，按照客户端文档填入订阅即可在对应设备上使用。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选套餐",
+          "AI_FEATURE_TITLE_2": "年付周期更简洁",
+          "AI_FEATURE_TITLE_3": "多平台客户端支持",
+          "AI_GUIDE_INTRO": "从套餐对比到客户端配置，三步可以完成 GoFast 订阅设置。",
+          "AI_GUIDE_TITLE": "GoFast 使用步骤",
+          "AI_HERO_INTRO": "GoFast 提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，设备支持从 3 台到 20 台。选择符合设备数量和流量需求的方案后，按客户端文档配置订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选择",
+          "AI_HIGHLIGHT_1": "基础版 100GB / 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版 1000GB / 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版面向流媒体与游戏线路需求，团队版覆盖多人多设备场景，结合流量与设备数选择即可。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量消耗和同时在线设备数量，对比基础版、旗舰版与团队版的套餐内容。",
+          "AI_STEP_TEXT_2": "确认当前操作系统是否有可用客户端，并查看对应客户端的订阅配置要求。",
+          "AI_STEP_TEXT_3": "按照客户端文档导入订阅地址，更新节点后即可在设备上使用已购买的 GoFast 套餐。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "GoFast 套餐任选"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rzhth.cn",
+    "host": "rzhth.cn"
+  },
+  "file_hashes": {
+    "index.html": "b0814777d9c577540b194478838ff01f4ed464c747dc66680d44a3abb7b552ba",
+    "sitemap.xml": "ff1b39f4f3be936016a2034d3468646657c9de3f9e29a0fb4ad0f880534aba03",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dc40124a134f3ac50756f23968733d14cc584d708e5f6407820622b3fed965ff",
+    "robots.txt": "65372440c0deecb73ad0243a622333c96bc054b7801b98e3bacbd5b6861c9ece",
+    "47c641269e23e508f93031303c5094b5.txt": "ef98f46124b1af0f5b10b45e8f5c9c6158609ca23406128829faaceca683be0f"
+  },
+  "revision": "19dfdb6c5e50e73485e34c2da94672b83705c14627e5d97b9e007abe485f86d8"
+}
